@@ -7,5 +7,5 @@
 - 2025 year ~summer~ made by JI 
 
 - 'import transformer'
-- [ai 모델 참조 사이트](https://huggingface.co/,"허깅페이스허브")
+- [ai 모델 참조 사이트](https://huggingface.co/, "허깅페이스허브")
 
