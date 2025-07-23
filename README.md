@@ -10,3 +10,4 @@
 - 'import transformer'
 - [ai 모델 참조 사이트](https://huggingface.co/ , "허깅페이스허브")
 
+- github.dev/goldhorse1
