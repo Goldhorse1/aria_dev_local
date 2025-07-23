@@ -1,9 +1,9 @@
 # aria_dev_local 
-this repository is local client for main branch of aria_dev 
+-this repository is local client for main branch of aria_dev 
+  -MIMICLAB , SOGANG UNIV , METAVERSE GRADUATE SCHOOL 
+-license is MIT resource. 
 
-license is MIT resource. 
-
-2025 year summer made by JI 
+-2025 year summer made by JI 
 
 
 
